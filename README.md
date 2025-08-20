@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ather</h1>
+<h1 align="center">Hola 👋, I'm Muhammad Ather</h1>
 <h3 align="center">I’m a Full-Stack Software Engineer with over 5 years of experience building high-performance web applications, from backend APIs to cloud-native deployments. Specializing in Python/Django, .NET, Angular, Vue.js, and AWS, I’ve delivered systems supporting 100K+ users, achieving 65% faster processing and 70% cost reductions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athervst&label=Profile%20views&color=0e75b6&style=flat" alt="athervst" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athervst" alt="athervst" /></a> </p>
 
-- 🔭 I am currently working as a Senior Backend Engineer at VST Inc. on the InsightCare project, a healthcare SaaS platform, developing an AI-powered medical coding API using Django REST Framework and AWS Comprehend Medical, achieving 90% accuracy in ICD-10 code inference. The project focuses on scalable data solutions, utilizing Python, Vue.js, PostgreSQL, and AWS, while ensuring compliance with HIPAA regulations and integrating HL7 standards for interoperability. These efforts enhance healthcare system efficiency and patient care quality. [InsightCare](https://bo.insightcare.com/)
+- 🔭 Working as a Senior Backend Engineer at VST Inc. on the InsightCare project, a healthcare SaaS platform, developing an AI-powered medical coding API using Django REST Framework and AWS Comprehend Medical, achieving 90% accuracy in ICD-10 code inference. The project focuses on scalable data solutions, utilizing Python, Vue.js, PostgreSQL, and AWS, while ensuring compliance with HIPAA regulations and integrating HL7 standards for interoperability. These efforts enhance healthcare system efficiency and patient care quality. [InsightCare](https://bo.insightcare.com/)
 
 - 🌱 I’m currently learning advanced data engineering concepts and frameworks to enhance my expertise in building scalable data solutions. **Apache Kafka,Apache Airflow, Dask, Databricks**
+
+- 💬 Feel free to ask about my passion for building innovative healthcare solutions or my experience with backend development and data workflows! **Vue.js**
 
 - 📫 How to reach me **muhammadather031@gmail.com**
 
