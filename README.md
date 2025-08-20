@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning advanced data engineering concepts and frameworks to enhance my expertise in building scalable data solutions. **Apache Kafka,Apache Airflow, Dask, Databricks**
 
-- 💬 Feel free to ask about my passion for building innovative healthcare solutions or my experience with backend development and data workflows! **Vue.js**
+- 💬 Feel free to ask about my passion for building innovative healthcare solutions or my experience with full-stack development and data workflows! **Vue.js**, **NLP**, **LLM**
 
 - 📫 How to reach me **muhammadather031@gmail.com**
 
