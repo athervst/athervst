@@ -1,21 +1,17 @@
-# Hi, I'm Muhammad Ather 
+# Muhammad Ather (VST work account)
 
-Lead Python/Django engineer with ~6 years building multi-tenant SaaS, healthcare integrations and LLM-powered features for US, UK and EU clients. Based in Lahore, Pakistan, working remotely.
+This account holds my work at **VST Inc.** on InsightCare, a HIPAA-regulated US healthcare SaaS built by a team of 35 engineers. I was Senior Software Engineer from Jul 2024 to Sep 2025 and Lead Software Engineer from Oct 2025 to Sep 2026. The code is private to the company.
 
-### What I'm working on
-- **CyGuardPro**: Lead Software Architect (Contract). Architected the multi-tenant Django/DRF/PostgreSQL core of a GRC platform: 300+ data models, 1,000+ API endpoints, a Vue.js front end, the scheduler and integration API behind 60+ evidence collectors across 13 platforms, and a multi-provider LLM layer. [Case study](https://muhammadather.com/work/cyguardpro/)
-- **Vehicle Daily Check**: live UK fleet-compliance SaaS. One Django API behind a web PWA and an Expo mobile app, with Stripe per-seat billing. [Case study](https://muhammadather.com/work/vehicle-daily-check/)
-- **CasePI Tracker**: FastAPI + React case-workflow app with 130+ endpoints. [caseflowpi.com](https://caseflowpi.com/)
+**At VST I:**
+- Built the BI Analytics module from scratch: a daily SFTP ingest of hospital data files into MongoDB feeding operational, inpatient and length-of-stay dashboards.
+- Owned PI Tracker as its main author: case listings, funding workflows, dashboards, reminders, attorney-scoped access and automated SLA alerts.
+- Built two server-to-server APIs: an inbound HL7 v2 API with per-message-type keys and a Reference Data API over a 52k-record chargemaster with API-key auth.
+- Owned RCM reporting (top contributor of 19) and claims reporting, and built the daily ERA 835 SFTP sync with S3 archiving and run locks.
+- Built the worklist EHR integration: daily export sync and a bulk pipeline that backfills encounters and professional claims.
+- Built 19 structured nurse assessment and screening tools and 15 printable consent forms.
+- Owned AI dictation and clinical notes, including AI discharge summaries and speech-to-text in nurse assessments.
+- Shipped 2,626 commits over 27 months, the 3rd most active of 35 contributors, through the team's GitHub Actions, Docker and AWS CodeDeploy pipelines.
 
-### Previously
-- **Lead Software Engineer, VST Inc.** (healthcare SaaS, until Sep 2026). HL7 v2 integrations across 8 message types, ~40% faster ETL on 10K+ records/day, enhanced claims and e-prescribing integrations, mentored 2 engineers.
-- Earlier: C# / .NET Core / ASP.NET MVC and Angular development.
+**My main profile, current products and public code: [github.com/ather031](https://github.com/ather031)**
 
-### Stack
-Python · Django · DRF · FastAPI · Vue.js · React · TypeScript · C#/.NET · PostgreSQL · MySQL · MSSQL · Oracle · MongoDB · AWS · Docker · GitHub Actions · LLM APIs
-
-### Currently learning
-MCP servers · GraphQL · Kubernetes · Apache Kafka · Apache Airflow
-
-### Reach me
-[Portfolio](https://muhammadather.com/) · [LinkedIn](https://www.linkedin.com/in/muhammad-ather031/) · muhammadather031@gmail.com
+[muhammadather.com](https://muhammadather.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-ather031/)
